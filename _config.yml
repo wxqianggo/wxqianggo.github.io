@@ -1,8 +1,7 @@
 title: Hello, world! I'm Chris.
-description: > # I'm From Shanghai China. (for
-  Google search results) and in your feed.xml site description.
+description: > # I'm From Shanghai China.
 permalink: ':title/'
-baseurl: "/wxqianggo.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wxqianggo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
