@@ -1,7 +1,7 @@
 title: Hello, world! I'm Chris.
 description: > # I'm From Shanghai China.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://wxqianggo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
