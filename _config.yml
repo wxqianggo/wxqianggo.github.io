@@ -7,16 +7,16 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Chris Wang # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: introduction.jpg # add your photo
 about-author: I am a backend software developer. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-twitter: wxqiang # add your Twitter handle
+social-facebook: wxqiang # add your Facebook handle
 social-github: wxqianggo # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: 13133472@qq.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: mr-chris # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
