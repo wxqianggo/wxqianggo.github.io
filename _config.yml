@@ -2,7 +2,7 @@ title: Hello, world! I'm Chris.
 description: > # I'm From Shanghai China. (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/asset" # the subpath of your site, e.g. /blog
 url: "wxqianggo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
