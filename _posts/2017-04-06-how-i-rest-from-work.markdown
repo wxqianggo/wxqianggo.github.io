@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 0920演示
+title: 傍晚美景
 date: 2022-09-20 16:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 0920.jpeg # Add image post (optional)
+img: home-around.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [演示, 廊坊]
+tags: [浦东，景色]
 ---
 
 ## 0920演示
 
-一场重要演示智能中台项目中的实际应用情况。
+豪宅，豪宅，豪宅。重要的事说三遍
 
-![跌倒照片]({{site.baseurl}}/assets/img/lay.jpeg)
-就是这种照片，大屏现场没有展示。
+![跌倒照片]({{site.baseurl}}/assets/img/juzi.jpeg)
+橘子靓照。
